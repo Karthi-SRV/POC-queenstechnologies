@@ -29,6 +29,6 @@ Run `npm run start` to run this app(Port Number:- 3000).
 
 ## PostMan
 
-Collection Link:- `https://www.getpostman.com/collections/f1a73237f7c97e1b8dd5`
-Documentation Link:-  `https://documenter.getpostman.com/view/3720369/TVmS6aMv`
+1. Collection Link:- `https://www.getpostman.com/collections/f1a73237f7c97e1b8dd5`
+2. Documentation Link:-  `https://documenter.getpostman.com/view/3720369/TVmS6aMv`
 
